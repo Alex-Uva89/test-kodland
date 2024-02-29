@@ -1,6 +1,6 @@
 # Not a Bubble - UA
 
-![Screenshot](./images/POPIT.png.png)
+![Screenshot](./images/POPIT.png)
 
 Questo progetto è una pagina web dedicata al gioco "Pop It!", che offre un'esperienza simile a quella di spingere le bolle di una pellicola di plastica. Il progetto è basato su HTML, CSS e JavaScript.
 
