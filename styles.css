@@ -19,6 +19,7 @@ body {
     ---text-color-primary: #000;
     ---text-color-secondary: #fff;
     ---color-bg-nav: #d3291d;
+    ---color-bg-nav2: #f42c1e;
     ---color-green-button: #adff2f;
     ---color-green-button-hover: #497804;
     ---color-bg-orange: #ffa500;
@@ -51,6 +52,7 @@ body {
     right: 0;
     padding: 0;
     transition: all 0.2s;
+    background-color: var(---color-bg-nav);
 }
 
 
@@ -91,8 +93,8 @@ body {
 }
 
 .navbvar--bg {
-    background-color: var(---color-bg-nav);
-    box-shadow: 0 0 4px 0 black;
+    background-color: var(---color-bg-nav2);
+    box-shadow: 0 0 15px 5px black;
 }
 
 /* --------- HEADER ------------ */
